@@ -44,10 +44,10 @@ jobs:
             ${{ runner.os }}-gradle-
             
       - name: Make gradlew executable
-        run: chmod +x gradle
+        run: chmod +x ./gradlew
 
       - name: Generate app bundle
-        run: gradle app:bundleRelease --stacktrace
+        run: ./gradlew app:bundleRelease --stacktrace
         
       - name: Sign app bundle
         run: |
