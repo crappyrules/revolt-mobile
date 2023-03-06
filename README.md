@@ -12,8 +12,7 @@ so idk how to make a good readme so i will tell u funny facts
 click on realses https://github.com/ashpotter/revolt-mobile/releases
 
 then click on that apk lol 
-
-%100 halal no haram 
+alkdfja;sdlfkjsad;lfkj
 
 # Legal bullcraps
 terms:https://revolt.chat/terms
